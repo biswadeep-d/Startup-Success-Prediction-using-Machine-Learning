@@ -64,7 +64,7 @@ Prosperity-Prognosticator/
 
 ## Team Contributions
 
-- **Rajdeep**: Team lead, model building,frontend development(`home.html`), backend development (`app.py`), Data analysis and visualization, frontend development (`index.html`), debugging, final code review
+- **Rajdeep**: Team lead, model building,frontend development(`home.html`), backend development (`app.py`), Data analysis and visualization, frontend development (`index.html`), debugging, final code review.
 - **Biswadeep**: Model evaluation, testing, result visualization (`results.html`), Data collection, preparation, univariate and multivariate analysis, `adaptivity.html`
 
 ## License
